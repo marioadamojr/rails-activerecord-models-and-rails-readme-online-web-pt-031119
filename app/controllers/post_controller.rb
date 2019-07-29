@@ -1,2 +1,2 @@
-class PostController < ActiveRecord::Base
+class PostController < ApplicationController
 end
